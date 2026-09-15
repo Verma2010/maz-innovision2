@@ -1,0 +1,6 @@
+{
+  "name": "MAZ InnoVision — PJ Campus Digital Expo",
+  "description": "Official interactive digital expo portal for MAZ International School (PJ Campus) featuring student innovation projects, venue logistics at Strand Mall, event schedules, and smooth page transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
